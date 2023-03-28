@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/thaisvsalmeida">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=thaisvsalmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisvsalmeida&layout=compact&langs_count=7&theme=dracula&hide=Jupyter Notebook"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisvsalmeida&layout=compact&langs_count=7&theme=dracula&hide=Jupyter%20Notebook"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">

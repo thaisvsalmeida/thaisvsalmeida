@@ -3,7 +3,7 @@
   ##
   
   - 📍 Salvador, Bahia, Brazil
-  - 💻 Software Developement Intern
+  - 💻 Software Developer
   - 📚 Computer Science
   - 👩🏻 She/Her
   
